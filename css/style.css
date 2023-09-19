@@ -1,0 +1,83 @@
+/*Скидання стилів*/
+@import url("reset.css");
+
+h1 	{
+	color: #6206f9;
+}
+h2 {
+	color: #00ffff;
+}
+
+.block-a-text {
+	color: green;
+}
+
+.block-a-img {
+}
+
+.block-a-title {
+	color: blue;
+}
+
+.leo {
+	color: #09a604;
+}
+
+.india {
+	color: aquamarine;
+}
+
+.cats {
+	color: #ff80ff;
+}
+
+.leos {
+	color: #ff8040;
+}
+
+.block-a-subtitle {
+	color: #804040;
+}
+
+.massa {
+	color: #ff00ff;
+}
+
+.block-b-title {
+	color: #400080;
+}
+
+.block-b-subtitle {
+	color: #292929;
+}
+
+.pride {
+	color: #534ffb;
+}
+
+.pride-vip {
+	color: #80ff00;
+}
+
+.block-b-title2 {
+}
+
+.block-b-subtitle2 {
+	color: #ff80ff;
+}
+
+.area {
+	color: #00ffff;
+}
+
+.block-c-title a{
+	color: #0000ff;
+}
+
+.block-c-histoty {
+	color: #ff0000;
+}
+
+.block-c-li {
+	color: #80ff00;
+}

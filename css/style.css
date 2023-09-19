@@ -1,18 +1,16 @@
 /*Скидання стилів*/
 @import url("reset.css");
 
-h1 	{
+h1 {
 	color: #6206f9;
 }
+
 h2 {
 	color: #00ffff;
 }
 
 .block-a-text {
 	color: green;
-}
-
-.block-a-img {
 }
 
 .block-a-title {
@@ -59,9 +57,6 @@ h2 {
 	color: #80ff00;
 }
 
-.block-b-title2 {
-}
-
 .block-b-subtitle2 {
 	color: #ff80ff;
 }
@@ -70,7 +65,7 @@ h2 {
 	color: #00ffff;
 }
 
-.block-c-title a{
+.block-c-title a {
 	color: #0000ff;
 }
 
@@ -81,9 +76,11 @@ h2 {
 .block-c-li {
 	color: #80ff00;
 }
+
 .block-i-number {
 	color: #ff8040;
 }
+
 .block-i-title {
 	color: #966601;
 }
